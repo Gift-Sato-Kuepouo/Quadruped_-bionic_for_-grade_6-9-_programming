@@ -35,7 +35,7 @@
 - STAGE 2  Sensors & Electronics: GPIO, ultrasonic, IMU, camera (Weeks 3–4)
 - STAGE 1  Programming Fundamentals: Python, loops, functions  (Weeks 1–2)
 - STAGE 0  Digital literacy & computational thinking          (Pre-camp)
-```
+
 
 Every phase's output becomes the next phase's input. Nothing is taught in isolation.
 
