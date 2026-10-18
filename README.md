@@ -28,13 +28,13 @@
 ##  The skill ladder (at a glance)
 
 
-- STAGE 6   CAPSTONE: Autonomous PuppyPi Companion         (Weeks 11–12)
-- STAGE 5  Robotics & ROS: gait, servos, SLAM, navigation   (Weeks 9–10)
-- STAGE 4  Machine Learning & Vision: gestures, voice, edge ML (Weeks 7–8)
-- STAGE 3  IoT & Cloud: MQTT, dashboards, telemetry          (Weeks 5–6)
-- STAGE 2  Sensors & Electronics: GPIO, ultrasonic, IMU, camera (Weeks 3–4)
-- STAGE 1  Programming Fundamentals: Python, loops, functions  (Weeks 1–2)
-- STAGE 0  Digital literacy & computational thinking          (Pre-camp)
+- **STAGE 6   CAPSTONE** : Autonomous PuppyPi Companion         (Weeks 11–12)
+- **STAGE 5  Robotics & ROS** : gait, servos, SLAM, navigation   (Weeks 9–10)
+- **STAGE 4  Machine Learning & Vision**: gestures, voice, edge ML (Weeks 7–8)
+- **STAGE 3  IoT & Cloud**: MQTT, dashboards, telemetry          (Weeks 5–6)
+- **STAGE 2  Sensors & Electronics**: GPIO, ultrasonic, IMU, camera (Weeks 3–4)
+- **STAGE 1  Programming Fundamentals**: Python, loops, functions  (Weeks 1–2)
+- **STAGE 0  Digital literacy & computational thinking**          (Pre-camp)
 
 
 Every phase's output becomes the next phase's input. Nothing is taught in isolation.
