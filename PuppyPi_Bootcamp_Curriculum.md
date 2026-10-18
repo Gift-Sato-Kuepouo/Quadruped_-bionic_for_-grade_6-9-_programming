@@ -390,13 +390,13 @@ Curriculum        →   IoT/ML/ROS labs  →   Dashboards &     →   Interest i
 
 ### Data pipeline
 
-
-Exit tickets ──┐
-Badge tracker ─┼─▶ Cohort dashboard (spreadsheet or lightweight Grafana)
-Rubric scores ─┤      │
-Surveys pre/post┘      ├─▶ Quarterly impact report (for funders/school board)
-                       ├─▶ Curriculum improvement log (which week had lowest exit-ticket confidence?)
-                       └─▶ Public anonymized summary (for website/marketing)
+- Exit tickets 
+- Badge tracker
+- Cohort dashboard (spreadsheet or lightweight Grafana)
+- Rubric scores     
+- Surveys pre/post : - Quarterly impact report (for funders/school board)
+                      -  Curriculum improvement log (which week had lowest exit-ticket confidence?)
+                       - Public anonymized summary (for website/marketing)
 
 
 ### Continuous improvement cadence
@@ -430,12 +430,12 @@ STUDENT QUOTE: "..."
 
 ## 9. 12-WEEK AT-A-GLANCE CALENDAR
 
-Wk 1–2   ██ CODE        Python/Scratch fundamentals, virtual pet
-Wk 3–4   ██ SENSE       GPIO, ultrasonic, IMU, servo, camera
-Wk 5–6   ██ CONNECT     MQTT, Node-RED/Grafana IoT dashboards
-Wk 7–8   ██ THINK       ML classification, gestures, voice
-Wk 9–10  ██ MOVE        ROS 2 gait control, SLAM, navigation
-Wk 11–12  CAPSTONE   Build, iterate, showcase
+- Wk 1–2    CODE        Python/Scratch fundamentals, virtual pet
+- Wk 3–4   SENSE       GPIO, ultrasonic, IMU, servo, camera
+- Wk 5–6   CONNECT     MQTT, Node-RED/Grafana IoT dashboards
+- Wk 7–8    THINK       ML classification, gestures, voice
+- Wk 9–10   MOVE        ROS 2 gait control, SLAM, navigation
+- Wk 11–12  CAPSTONE   Build, iterate, showcase
 
 
 ---
