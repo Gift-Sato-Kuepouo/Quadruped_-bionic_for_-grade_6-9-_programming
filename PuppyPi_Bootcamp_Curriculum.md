@@ -413,13 +413,13 @@ Curriculum        →   IoT/ML/ROS labs  →   Dashboards &     →   Interest i
 
 **One-page cohort impact report:**
 
-COHORT: [name/dates]    ENROLLED: [n]    COMPLETED: [n]  ([%])
-BADGES EARNED: [avg per student]
-PRE→POST SKILL GAIN: [x]% avg
-SELF-EFFICACY GAIN: [+x.x] on 5-pt scale
-CAPSTONE DEMOS SUCCESSFUL: [n]/[n] teams
-PATHWAY CONTINUATION: [x]% (6-month follow-up)
-STUDENT QUOTE: "..."
+- COHORT: [name/dates]    ENROLLED: [n]    COMPLETED: [n]  ([%])
+- BADGES EARNED: [avg per student]
+- PRE→POST SKILL GAIN: [x]% avg
+- SELF-EFFICACY GAIN: [+x.x] on 5-pt scale
+- CAPSTONE DEMOS SUCCESSFUL: [n]/[n] teams
+- PATHWAY CONTINUATION: [x]% (6-month follow-up)
+- STUDENT QUOTE: "..."
 
 
 ### Why this matters (talking point)
