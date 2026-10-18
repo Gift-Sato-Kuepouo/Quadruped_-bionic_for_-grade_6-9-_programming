@@ -1,8 +1,8 @@
-# 📊 PUPPY CODE ACADEMY
+#  PUPPY CODE ACADEMY
 ## Survey & Evaluation Framework — Ready-to-Use Instruments
 
-> Companion document to `PuppyPi_Bootcamp_Curriculum.md` (Section 8)
-> Print-ready instruments, scoring rubrics, and data sheets for every cohort.
+ Companion document to `PuppyPi_Bootcamp_Curriculum.md` (Section 8)
+ Print-ready instruments, scoring rubrics, and data sheets for every cohort.
 
 ---
 
@@ -395,25 +395,25 @@ d) Turning the computer off and on
 
 ## Cohort summary card (for funders/board — fill at cohort close)
 
-```
-═══════════════════════════════════════════════════════════
-PUPPY CODE ACADEMY — COHORT IMPACT REPORT
-Cohort: _____________  Dates: _____________  Site: _____________
 
-ENROLLED: ____   COMPLETED (≥80% sessions): ____  (____%)
-BADGES EARNED: ____ total  |  ____ avg per completer
-SKILL GAIN (A2→capstone proxy): pre-avg ____/10 → post demonstration avg ____
-SELF-EFFICACY GAIN (A3): mean ____ → ____  (Δ +____)
-GROWTH MINDSET (A4): ____% agree/strongly agree at post
-CAPSTONE: ____/____ teams functional demos  |  avg individual presentation ____/6
-SATISFACTION (A9): NPS ____  |  avg enjoyment ____/5
-PATHWAY CONTINUATION (A10): 3-mo ____%  |  6-mo ____%
-EQUITY: ____% from underrepresented groups  |  ____% free/reduced-lunch
+ ═══════════════════════════════════════════════════════════
+- PUPPY CODE ACADEMY — COHORT IMPACT REPORT
+- Cohort: _____________  Dates: _____________  Site: _____________
 
-STUDENT QUOTE: "_________________________________________"
-TOP LESSON LEARNED: "___________________________________"
-═══════════════════════════════════════════════════════════
-```
+- ENROLLED: ____   COMPLETED (≥80% sessions): ____  (____%)
+- BADGES EARNED: ____ total  |  ____ avg per completer
+- SKILL GAIN (A2→capstone proxy): pre-avg ____/10 → post demonstration avg ____
+- SELF-EFFICACY GAIN (A3): mean ____ → ____  (Δ +____)
+- GROWTH MINDSET (A4): ____% agree/strongly agree at post
+- CAPSTONE: ____/____ teams functional demos  |  avg individual presentation ____/6
+- SATISFACTION (A9): NPS ____  |  avg enjoyment ____/5
+- PATHWAY CONTINUATION (A10): 3-mo ____%  |  6-mo ____%
+- EQUITY: ____% from underrepresented groups  |  ____% free/reduced-lunch
+
+- STUDENT QUOTE: "_________________________________________"
+- TOP LESSON LEARNED: "___________________________________"
+ ═══════════════════════════════════════════════════════════
+
 
 ## Targets summary (pass/fail at a glance)
 
