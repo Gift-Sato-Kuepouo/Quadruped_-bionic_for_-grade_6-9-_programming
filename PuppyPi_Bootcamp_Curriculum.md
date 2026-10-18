@@ -2,11 +2,11 @@
 
 ### A K–12 AI & Robotics Bootcamp Powered by the PuppyPi Quadruped (Raspberry Pi 5)
 
-> *[IMAGE 1: PuppyPi Advanced Kit — bionic quadruped robot with Raspberry Pi 5, shown in walking pose]*
-> *(Insert photo here: `tio.png` — captured with a model that supports image input)*
->
-> **Robot:** PuppyPi Robot Dog — AI Embodied Intelligence, ROS quadruped with vision, voice understanding, SLAM mapping & navigation.
-> **Reference repo:** https://github.com/Gift-Sato-Kuepouo/Quadruped_-bionic_for_-grade_6-9-_programmin
+*[IMAGE 1: PuppyPi Advanced Kit — bionic quadruped robot with Raspberry Pi 5, shown in walking pose]*
+*(Insert photo here: `tio.png` — captured with a model that supports image input)*
+
+ **Robot:** PuppyPi Robot Dog — AI Embodied Intelligence, ROS quadruped with vision, voice understanding, SLAM mapping & navigation.
+ **Reference repo:** https://github.com/Gift-Sato-Kuepouo/Quadruped_-bionic_for_-grade_6-9-_programmin
 
 ---
 
@@ -30,8 +30,8 @@
 
 ## 3. THE SKILL LADDER (How students reach the capstone)
 
-```
-STAGE 6  ★ CAPSTONE: PuppyPi Autonomous Companion        (Weeks 11–12)
+
+STAGE 6   CAPSTONE: PuppyPi Autonomous Companion        (Weeks 11–12)
            │  integrates everything below
 STAGE 5  Robotics & ROS: gait, servos, SLAM, navigation (Weeks 9–10)
            │
@@ -47,7 +47,7 @@ STAGE 1  Programming Fundamentals: variables, loops,
          functions in Python (Scratch for K–2)           (Weeks 1–2)
            │
 STAGE 0  Digital literacy & computational thinking       (Pre-camp)
-```
+
 
 **Key idea for interviews:** *"Each stage's output becomes the next stage's input. Sensor readings feed IoT dashboards; classified images feed robot behaviors; ROS ties it into the capstone. Nothing is taught in isolation."*
 
@@ -57,7 +57,7 @@ STAGE 0  Digital literacy & computational thinking       (Pre-camp)
 
 *(2 sessions/week × 2 hours = 48 contact hours + capstone showcase)*
 
-### 📘 PHASE 1 — CODE (Weeks 1–2)
+###  PHASE 1 — CODE (Weeks 1–2)
 
 | Week | Topic | Build Project | Skill Gained |
 |---|---|---|---|
@@ -94,7 +94,7 @@ for c in commands:
 
 ---
 
-### 📗 PHASE 2 — SENSE (Weeks 3–4)
+###  PHASE 2 — SENSE (Weeks 3–4)
 
 | Week | Topic | Build Project | Skill Gained |
 |---|---|---|---|
@@ -134,7 +134,7 @@ finally:
 
 ---
 
-### 📙 PHASE 3 — CONNECT (IoT) (Weeks 5–6)
+###  PHASE 3 — CONNECT (IoT) (Weeks 5–6)
 
 | Week | Topic | Build Project | Skill Gained |
 |---|---|---|---|
@@ -170,7 +170,7 @@ while True:
 
 ---
 
-### 📕 PHASE 4 — THINK (ML & Vision) (Weeks 7–8)
+###  PHASE 4 — THINK (ML & Vision) (Weeks 7–8)
 
 | Week | Topic | Build Project | Skill Gained |
 |---|---|---|---|
@@ -207,7 +207,7 @@ def classify(frame):
 
 ---
 
-### 📓 PHASE 5 — MOVE (Robotics & ROS) (Weeks 9–10)
+###  PHASE 5 — MOVE (Robotics & ROS) (Weeks 9–10)
 
 | Week | Topic | Build Project | Skill Gained |
 |---|---|---|---|
@@ -253,16 +253,16 @@ Students run the loop with pen-and-paper maps *before* touching the real SLAM st
 
 ---
 
-### 🏆 PHASE 6 — CAPSTONE (Weeks 11–12)
+###  PHASE 6 — CAPSTONE (Weeks 11–12)
 
 **Students choose a track and BUILD:**
 
 | Track | Challenge | Skills integrated |
 |---|---|---|
-| 🗺️ **Explorer** | Autonomous SLAM mapping + waypoint delivery of an object | ROS, SLAM, navigation, gait |
-| 🛡️ **Guardian** | Vision + voice-activated sentry: detects person → sends IoT alert → follows | ML, IoT, CV, motion |
-| 🎾 **Athlete** | Ball-tracking fetch behavior using CV + gait control | CV, control loops, motion |
-| 🎤 **Companion** | ChatGPT/API-driven voice Q&A robot with expressive movements | NLP, API integration, motion |
+|  **Explorer** | Autonomous SLAM mapping + waypoint delivery of an object | ROS, SLAM, navigation, gait |
+|  **Guardian** | Vision + voice-activated sentry: detects person → sends IoT alert → follows | ML, IoT, CV, motion |
+|  **Athlete** | Ball-tracking fetch behavior using CV + gait control | CV, control loops, motion |
+|  **Companion** | ChatGPT/API-driven voice Q&A robot with expressive movements | NLP, API integration, motion |
 
 **Deliverables:**
 - Working robot demo (5-minute live run)
@@ -344,7 +344,6 @@ What gets measured gets funded, improved, and replicated. This framework turns t
 
 ### Logic model (theory of change)
 
-```
 INPUTS                ACTIVITIES             OUTPUTS              OUTCOMES              IMPACT
 ─────────            ──────────             ──────              ────────              ──────
 Raspberry Pi 5   →   48 hrs of build-  →   Badges earned   →   CS self-efficacy  →   Diverse, durable
@@ -353,8 +352,7 @@ Instructors       →   Mentorship       →   Portfolio repos  →   Pathway en
 Funding/grants        & showcases           Showcase events       Persistence            students in
 Curriculum        →   IoT/ML/ROS labs  →   Dashboards &     →   Interest in CS/  →    advanced STEM
                       trained models        trained models        robotics careers       coursework &
-                                                                                         tech roles
-```
+
 
 ### KPI dashboard (per cohort)
 
@@ -392,14 +390,14 @@ Curriculum        →   IoT/ML/ROS labs  →   Dashboards &     →   Interest i
 
 ### Data pipeline
 
-```
+
 Exit tickets ──┐
 Badge tracker ─┼─▶ Cohort dashboard (spreadsheet or lightweight Grafana)
 Rubric scores ─┤      │
 Surveys pre/post┘      ├─▶ Quarterly impact report (for funders/school board)
                        ├─▶ Curriculum improvement log (which week had lowest exit-ticket confidence?)
                        └─▶ Public anonymized summary (for website/marketing)
-```
+
 
 ### Continuous improvement cadence
 
@@ -414,7 +412,7 @@ Surveys pre/post┘      ├─▶ Quarterly impact report (for funders/school b
 ### Reporting templates (for grants & boards)
 
 **One-page cohort impact report:**
-```
+
 COHORT: [name/dates]    ENROLLED: [n]    COMPLETED: [n]  ([%])
 BADGES EARNED: [avg per student]
 PRE→POST SKILL GAIN: [x]% avg
@@ -422,24 +420,23 @@ SELF-EFFICACY GAIN: [+x.x] on 5-pt scale
 CAPSTONE DEMOS SUCCESSFUL: [n]/[n] teams
 PATHWAY CONTINUATION: [x]% (6-month follow-up)
 STUDENT QUOTE: "..."
-```
+
 
 ### Why this matters (talking point)
 
-> "We don't just hope the bootcamp works — every session produces data. Exit tickets catch struggling students within a week, pre/post assessments prove skill gains, and 6-month follow-up shows whether we're actually feeding the STEM pipeline. That's how you take a great camp and make it a fundable, replicable program."
+**"We don't just hope the bootcamp works — every session produces data. Exit tickets catch struggling students within a week, pre/post assessments prove skill gains, and 6-month follow-up shows whether we're actually feeding the STEM pipeline. That's how you take a great camp and make it a fundable, replicable program."**
 
 ---
 
 ## 9. 12-WEEK AT-A-GLANCE CALENDAR
 
-```
 Wk 1–2   ██ CODE        Python/Scratch fundamentals, virtual pet
 Wk 3–4   ██ SENSE       GPIO, ultrasonic, IMU, servo, camera
 Wk 5–6   ██ CONNECT     MQTT, Node-RED/Grafana IoT dashboards
 Wk 7–8   ██ THINK       ML classification, gestures, voice
 Wk 9–10  ██ MOVE        ROS 2 gait control, SLAM, navigation
-Wk 11–12 ★★ CAPSTONE   Build, iterate, showcase
-```
+Wk 11–12  CAPSTONE   Build, iterate, showcase
+
 
 ---
 
