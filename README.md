@@ -91,4 +91,4 @@ MIT License — © 2026 Gift Sato Kuepouo. Free to use, adapt, and share with at
 
 ---
 
-*Puppy Code Academy — because every student should feel what it's like to bring a machine to life with their own code.* 🐾
+*Puppy Code Academy because every student should feel what it's like to bring a machine to life with their own code.* 🐾
