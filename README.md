@@ -28,7 +28,7 @@
 ##  The skill ladder (at a glance)
 
 ```
-STAGE 6  ★ CAPSTONE: Autonomous PuppyPi Companion         (Weeks 11–12)
+STAGE 6   CAPSTONE: Autonomous PuppyPi Companion         (Weeks 11–12)
 STAGE 5  Robotics & ROS: gait, servos, SLAM, navigation   (Weeks 9–10)
 STAGE 4  Machine Learning & Vision: gestures, voice, edge ML (Weeks 7–8)
 STAGE 3  IoT & Cloud: MQTT, dashboards, telemetry          (Weeks 5–6)
