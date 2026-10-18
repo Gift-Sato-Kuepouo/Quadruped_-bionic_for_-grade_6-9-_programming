@@ -6,7 +6,7 @@
 
 ---
 
-## 📚 What's in this repo
+##  What's in this repo
 
 | File | What it is |
 |---|---|
@@ -16,7 +16,7 @@
 
 ---
 
-## 🎯 Who this is for
+##  Who this is for
 
 - **K–12 educators & program coordinators** launching a robotics/AI bootcamp with limited budget and no robotics background required
 - **Students (grades 6–9 core track, adaptable K–12)** building a portfolio robot they understand line-by-line
@@ -25,7 +25,7 @@
 
 ---
 
-## 🪜 The skill ladder (at a glance)
+##  The skill ladder (at a glance)
 
 ```
 STAGE 6  ★ CAPSTONE: Autonomous PuppyPi Companion         (Weeks 11–12)
@@ -41,7 +41,7 @@ Every phase's output becomes the next phase's input. Nothing is taught in isolat
 
 ---
 
-## 🚀 Quick start (for students & instructors)
+##  Quick start (for students & instructors)
 
 1. **Read** [`PuppyPi_Bootcamp_Curriculum.md`](./PuppyPi_Bootcamp_Curriculum.md) — start with the elevator pitch (Section 1) and the skill ladder (Section 3).
 2. **Set up the robot** — PuppyPi Advanced Kit + Raspberry Pi 5 (4GB); see Section 7 (Kit & Logistics) for the full hardware/software stack.
@@ -50,7 +50,7 @@ Every phase's output becomes the next phase's input. Nothing is taught in isolat
 
 ---
 
-## 🧰 Software stack
+##  Software stack
 
 - Raspberry Pi OS · Python 3 · ROS 2 Humble
 - Mosquitto MQTT · Node-RED / Grafana
@@ -59,18 +59,18 @@ Every phase's output becomes the next phase's input. Nothing is taught in isolat
 
 ---
 
-## 🏆 Capstone tracks
+##  Capstone tracks
 
 | Track | Challenge |
 |---|---|
-| 🗺️ **Explorer** | Autonomous SLAM mapping + waypoint object delivery |
-| 🛡️ **Guardian** | Vision + voice sentry: detects → alerts via IoT → follows |
-| 🎾 **Athlete** | Ball-tracking fetch behavior (CV + gait control) |
-| 🎤 **Companion** | ChatGPT/API voice Q&A robot with expressive motion |
+|  **Explorer** | Autonomous SLAM mapping + waypoint object delivery |
+|  **Guardian** | Vision + voice sentry: detects → alerts via IoT → follows |
+|  **Athlete** | Ball-tracking fetch behavior (CV + gait control) |
+|  **Companion** | ChatGPT/API voice Q&A robot with expressive motion |
 
 ---
 
-## 📊 Impact & evaluation
+##  Impact & evaluation
 
 The program is measured end-to-end: pre/post skill checks, badge completion rates, self-efficacy gains, capstone rubrics, and 3/6-month pathway follow-up. See the evaluation framework for the full KPI dashboard and a copy-paste funder report template.
 
