@@ -4,6 +4,12 @@
 
 **Robot:** PuppyPi Advanced Kit + Raspberry Pi 5 (4GB) — AI embodied intelligence, ROS-based bionic quadruped with camera vision, voice understanding, SLAM mapping, and autonomous navigation.
 
+<p align="center">
+  <img src="images/tio.png" alt="PuppyPi bionic quadruped robot dog (Advanced Kit with Raspberry Pi 5)" width="480">
+  <br>
+  <em>The PuppyPi robot dog used throughout the bootcamp.</em>
+</p>
+
 ---
 
 ##  What's in this repo
