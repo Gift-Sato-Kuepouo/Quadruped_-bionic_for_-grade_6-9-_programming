@@ -1,4 +1,4 @@
-# 🐾 PuppyPi Bionic Quadruped — K–12 Programming & AI Bootcamp (Grades 8–12)
+# 🐾 PuppyPi Bionic Quadruped K–12 Programming & AI Bootcamp (Grades 8–12)
 
 **Puppy Code Academy**:  a scaffolded K–12 AI & Robotics initiative where students earn every skill they need to program their own PuppyPi robot dog: Python, sensors, IoT, machine learning, ROS, and SLAM ending in an autonomous, voice- and vision-aware quadruped capstone.
 
