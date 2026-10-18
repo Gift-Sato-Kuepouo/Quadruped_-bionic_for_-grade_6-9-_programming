@@ -12,6 +12,7 @@
 |---|---|
 | [`PuppyPi_Bootcamp_Curriculum.md`](./PuppyPi_Bootcamp_Curriculum.md) | The full 12-week bootcamp: skill ladder, 6 phases (Code → Sense → Connect → Think → Move → Capstone), runnable starter code for every phase, 4 capstone tracks, age-tiered adaptations (K–12), badge/assessment system, kit & logistics, and program feed-loops. |
 | [`PuppyPi_Survey_Evaluation_Framework.md`](./PuppyPi_Survey_Evaluation_Framework.md) | 11 ready-to-use evaluation instruments: pre/post skills checks, CS self-efficacy & growth mindset scales, weekly exit tickets, all 6 badge competency checks, design journal & capstone rubrics, satisfaction/NPS survey, 3 & 6-month pathway follow-up, instructor debrief — plus master data sheets and a funder-ready impact report template. |
+| [`examples/`](./examples) | **Runnable sample code for the real robot** (ROS 2 Humble, verified Hiwonder topics): hello walk, square patrol, OpenCV color chaser, IMU safety watchdog. Setup and safety guide included. |
 | [`LICENSE`](./LICENSE) | MIT License — © 2026 Gift Sato Kuepouo. |
 
 ---
