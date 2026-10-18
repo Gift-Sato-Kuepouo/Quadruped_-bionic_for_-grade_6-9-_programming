@@ -1,6 +1,6 @@
 # 🐾 PuppyPi Bionic Quadruped — K–12 Programming & AI Bootcamp (Grades 6–9)
 
-> **Puppy Code Academy** — a scaffolded K–12 AI & Robotics initiative where students earn every skill they need to program their own PuppyPi robot dog: Python, sensors, IoT, machine learning, ROS, and SLAM — ending in an autonomous, voice- and vision-aware quadruped capstone.
+> **Puppy Code Academy** — a scaffolded K–12 AI & Robotics initiative where students earn every skill they need to program their own PuppyPi robot dog: Python, sensors, IoT, machine learning, ROS, and SLAM ending in an autonomous, voice- and vision-aware quadruped capstone.
 
 **Robot:** PuppyPi Advanced Kit + Raspberry Pi 5 (4GB) — AI embodied intelligence, ROS-based bionic quadruped with camera vision, voice understanding, SLAM mapping, and autonomous navigation.
 
@@ -78,7 +78,7 @@ The program is measured end-to-end: pre/post skill checks, badge completion rate
 
 ---
 
-## 📄 License
+##  License
 
 MIT License — © 2026 Gift Sato Kuepouo. Free to use, adapt, and share with attribution. See [`LICENSE`](./LICENSE).
 
